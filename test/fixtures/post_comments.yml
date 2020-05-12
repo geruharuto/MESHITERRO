@@ -1,13 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  shop_name: MyText
-  image_id: MyString
-  caption: MyText
+  comment: MyText
   user_id: 1
+  post_image_id: 1
 
 two:
-  shop_name: MyText
-  image_id: MyString
-  caption: MyText
+  comment: MyText
   user_id: 1
+  post_image_id: 1
